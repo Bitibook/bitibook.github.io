@@ -247,7 +247,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         let resultText = markedText;
         for (const [key, value] of Object.entries(specialWords)) {
             const regex = new RegExp(`\\[SPECIAL:${key}\\](\\s+)(\\S+)`, 'gi');
-            resultText = resultText.replace(regex, (match, p1, p2) => `<b>${value}</b>${p1}<span class="pink">${p2}</span>`);
+            resultText = resultText.replace(regex, (match, p1, p2) => `<b>${value}</b>${p1}<span class="p">${p2}</span>`);
         }
 
         resultText = resultText.replace(/\[SPECIAL:\S+\]/g, '');
