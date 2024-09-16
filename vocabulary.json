@@ -114,5 +114,16 @@
     "14": "West Yugur",
     "15": "Turkmen",
     "16": "Anatolian Turkish"
+  },
+  "typeWords": {
+    "b1": "adjective",
+    "b2": "adverb",
+    "b3": "conjunction",
+    "b4": "interjection",
+    "b5": "noun",
+    "b6": "onomatopoeia",
+    "b7": "preposition",
+    "b8": "pronoun",
+    "b9": "verb"
   }
 }
