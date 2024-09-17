@@ -38,24 +38,10 @@
     }
   },
   "clickableWords": {
-    "*+a-": [
-      [
-        "5 *ōyun",
-        "“game”",
-        "9 *ōyna-",
-        "“to play”"
-      ],
-      [
-        "5 *buŋ",
-        "“suffering”",
-        "9 *buŋa-",
-        "“(i) go senile, to become sick”"
-      ]
-    ],
     "*+a": [
       [
         "9 *yak-",
-        "“to come near, approach”",
+        "“i. to come near, approach”",
         "5 *yaka",
         "“collar; edge”"
       ]
@@ -66,6 +52,20 @@
         "“(t) to interpret”",
         "5 *yöre",
         "“area, region, vicinity”"
+      ]
+    ],
+    "*+a-": [
+      [
+        "5 *ōyun",
+        "“game”",
+        "9 *ōyna-",
+        "“i. to play”"
+      ],
+      [
+        "5 *buŋ",
+        "“suffering”",
+        "9 *buŋa-",
+        "“(i) go senile, to become sick”"
       ]
     ],
     "*+e-": [
