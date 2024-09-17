@@ -38,28 +38,12 @@
     }
   },
   "clickableWords": {
-    "*+a": [
-      [
-        "9 *yak-",
-        "“i. to come near, approach”",
-        "5 *yaka",
-        "“collar; edge”"
-      ]
-    ],
-    "*+e": [
-      [
-        "9 *yȫr-",
-        "“(t) to interpret”",
-        "5 *yöre",
-        "“area, region, vicinity”"
-      ]
-    ],
     "*+a-": [
       [
         "5 *ōyun",
         "“game”",
         "9 *ōyna-",
-        "“i. to play”"
+        "“<i>i.</i> to play”"
       ],
       [
         "5 *buŋ",
@@ -80,6 +64,22 @@
         "“lot, endowment”",
         "9 *ülge-",
         "“(t) to divide, distribute”"
+      ]
+    ],
+    "*+a": [
+      [
+        "9 *yak-",
+        "“i. to come near, approach”",
+        "5 *yaka",
+        "“collar; edge”"
+      ]
+    ],
+    "*+e": [
+      [
+        "9 *yȫr-",
+        "“(t) to interpret”",
+        "5 *yöre",
+        "“area, region, vicinity”"
       ]
     ],
     "*+ï-": [
