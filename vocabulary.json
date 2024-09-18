@@ -1,7 +1,7 @@
 {
   "entryWords": {
     "sarı": {
-      "a": "09 sarı “yellow” < 07 صاری < 01 < 01rïg < *sarï- “to become yellowish white” +g <br><br> Besides, 01 *sarï- < 01 *saŕ “egg membrane” 01 *+ï- <br><br> See <span class='searchable'>sarmak</span>."
+      "a": "t1 sarı “yellow” < o1 صاری < p1 *sarïg < *sarï- “to become yellowish white” +g <br><br> Besides, 01 *sarï- < 01 *saŕ “egg membrane” 01 *+ï- <br><br> See <span class='searchable'>sarmak</span>."
     },
     "diz": {
       "a": "09 diz “knee” < 6 دیز  6 * “joint” < ptr *tī- “to straighten” + ptr *+ŕ <br><br> Besides, ptr *tī- < ppt *tīḏ- “to set”"
@@ -341,22 +341,22 @@
     "9": "verb"
   },
   "specialWords": {
-    "01": "Proto-Turkic",
-    "02": "Chuvash",
-    "03": "Bolgarian",
-    "04": "Chagatai",
-    "05": "Khakas",
-    "06": "Salar",
-    "07": "Ottoman Turkish",
-    "08": "Cypriot Turkish",
-    "09": "Turkish",
-    "10": "Gagauz",
-    "11": "Khorasan Turkic",
-    "12": "Orkhon Turkic",
-    "13": "Crimean Tatar",
-    "14": "Sakha",
-    "15": "West Yugur",
-    "16": "Turkmen",
-    "17": "Anatolian Turkish"
+    "a1": "Anatolian Turkish",
+    "b1": "Bolgarian",
+    "c1": "Chuvash",
+    "c2": "Chagatai",
+    "c3": "Crimean Tatar",
+    "c3": "Cypriot Turkish",
+    "g1": "Gagauz",
+    "k1": "Khorasan Turkic",
+    "k2": "Khakas",
+    "s1": "Salar",
+    "o1": "Ottoman Turkish",
+    "o2": "Orkhon Turkic",
+    "t1": "Turkish",
+    "t2": "Turkmen",
+    "s2": "Sakha",
+    "w1": "West Yugur",
+    "p1": "Proto-Turkic"
   }
 }
