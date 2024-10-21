@@ -402,15 +402,16 @@
     ]
   },
   "typeWords": {
-    "t1": "adj.",
-    "t2": "adv.",
-    "t3": "conj.",
-    "t4": "int.",
-    "t5": "n.",
-    "t6": "onom.",
-    "t7": "prep.",
-    "t8": "pron.",
-    "t9": "v."
+    "0": "adj.",
+    "1": "adv.",
+    "2": "conj.",
+    "3": "int.",
+    "4": "intr.",
+    "5": "n.",
+    "6": "onom.",
+    "7": "prep.",
+    "8": "pron.",
+    "9": "tr."
   },
   "specialWords": {
     "s0": "Unknown",
