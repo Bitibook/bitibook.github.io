@@ -1,0 +1,529 @@
+{
+  "entryWords": {
+   "a": {
+     "a": "s89 a “interjection for displeasure, contradiction, surprise, disappointment, or pity and (dialectal) interjection for emphasis” < s8 *ā “interjection that expresses various emotions”"
+   },
+   "abece": {
+     "a": "s89 abece “alphabet” < a combination of the name of the first three letters in Turkish alphabet; s89 a “alpha”, s89 be “beta” and s89 ce “gamma”."
+   },
+   "abımak": {
+     "a": "s31 -آبیٖ “to cover up” (Mahmud al-Kashgari, Dīwān Lughāt al-Turk) < s8 *apï- < s8 *ap- “(onom.) to close” + s8 *+ï- “emphasis suffix”."
+   },
+   "acıkmak": {
+     "a": "s89 acık- “(intransitive) to hunger; be hungry, feel hunger, feel peckish” < s71 آجیق “to be hungry, to hunger” < s8 *āčïk- < s8 *āč- “to hunger” (or another possibility s8 *āč “hunger”) + s8 *+ïk- “a suffix for verbs and nouns; makes reflexive and intransitive verbs” <br><br> Besides, s8 *āč- ≈ s8 *āč and the phrases /č/ and /č-/ point to a common root of unknown nature; s8 *ā- <br><br> See <span class='searchable'>ağ</span>."
+   },
+   "anlamak": {
+     "a": "s89 anla- “to understand, to comprehend, to get” < s71 -آكلا < s8 *aŋla- < s8 *aŋ “” + s8 *+la- <  <br><br> See <span class='searchable'>aç</span>."
+   },
+   "ağ": {
+     "a": "s89 ağ “a mesh of string, cord or rope” and besides “the silken structure which a spider builds using silk secreted from the spinnerets at the caudal tip of its abdomen; a spiderweb” < s8 *āg “trap; usually used for hunting” < it is certain that this word is cognate with s8 *āb “hunt, chase” (≈ sand s8 *āŋ “wild animal”"
+   },
+   "ağırmak": {
+     "a": "s89 ağır- “to shout (shout loudly); bağırmak” < s71 -آغر “to bray in an ugly voice; anırmak” < s71 -قر+ “suffix for onomatopoeias and interjections” + s71 آ “an interjection”<br><br>See <span class='searchable'>a</span>."
+   },
+   "az": {
+     "a": "t1 ɑz < p1 "
+   },
+   "iz": {
+     "a": "t1 iz < p1 *i- p1 +rʲ <br><br> Besides, p1 i- < p1 ið-"
+   },
+    "çatal": {
+     "a": "t1 çatal < p1 *çatıl < p1 *çat- *+ïl1"
+   },
+    "belirmek": {
+      "a": "t1 belir- “to appear” < o1 بلرمك < p1 *bẹl- “to keep in mind” + p1 *+gür- < p1 *bẹ “i” + p1 *+l-² <br><br> See <span class='searchable'>bilmek</span>."
+    },
+    "bilmek": {
+      "a": "t1 bil- “to know, understand, recognise” < p1 *bil- “to know” < p1 *bi “this” + p1 *+l-³ <br><br> See <span class='searchable'>bu</span>."
+    },
+    "bulmak": {
+      "a": "t1 bul- “to find, discover, invent, reach” < p1 *bul- “to find” < p1 *bu “this” + p1 *+l-³ <br><br> See <span class='searchable'>bu</span>."
+    },
+    "sarı": {
+      "a": "t1 sarı “yellow” ≈ g1 sarı < o1 صاری ≈ c1 шурӑ < p1 *sarïg “yellow, white” < p1 *sarï- “to become yellowish white” + p1 *+g <br><br> Besides, p1 *sarïg > p2 *siro “white”, p3 *sïra “yellow” <br><br> Besides, p1 *sarï- < p1 *saŕ “egg membrane” p1 *+ï- <br><br> See <span class='searchable'>sarmak</span>."
+    },
+    "kızıl": {
+      "a": "t1 kızıl “bright red, scarlet” ≈ g1 kızıl < o1 صاری ≈ c1 хӗрлӗ < p1 *kï̄zgïl “red” < p1 *kï̄zïg “redness” + p1 *+ïl2 <br><br> Besides, p1 *kï̄zïg < p1 *kï̄z- “to be hot, glow, redden” + p1 *+ïg <br><br> See <span class='searchable'>kızarmak</span>."
+    },
+    "diz": {
+      "a": "09 diz “knee” < 6 دیز  6 * “joint” < ptr *tī- “to straighten” + ptr *+ŕ <br><br> Besides, ptr *tī- < ppt *tīḏ- “to set”"
+    },
+    "diri": {
+      "a": "09 diri “alive”  < ptr *tīrig < ptr *tīri- “to live” + ptr *+g <br><br> See <span class='searchable'>dirilmek</span>."
+    },
+    "dirilmek": {
+      "a": "09 diril- “to come alive” < ota -دیرل ≈ otk -𐱅𐰃𐰼𐰠 < ptr *tīri- + ptr <br>*+i- <br><br> Besides, ptr *tīri- “to stand, arise” < ptr *tīŕ “joint” + ptr *+i- <br><br> See <span class='searchable'>diz</span>."
+    },
+    "dirsek": {
+      "a": "s89 dirsek “elbow” < s8 *tirsgek < s8 *tīrse- “to joint” + s8 *+gek <br><br> Besides, tuk tirse- “to turn, curl” < ptr *tīrse- < s8 *tīŕ “joint” + s8 *+se- <br><br> See <span class='searchable'>diz</span>."
+    },
+    "dik": {
+      "a": "tur dik “upright, vertical” < ota دیك < ptr *tīk < ptr *tī- “set up” + ptr *+k <br><br> See <span class='searchable'>dikmek</span>."
+    },
+    "dizmek": {
+      "a": "tur diz- “to line up” < ota -ديز ≈ otk -𐱅𐰃𐰼𐰠 < ptr *tīŕ- “to bead, string; arrange in a row” < ptr *tī- + ptr +ŕ- <br><br> See <span class='searchable'>diz</span>."
+    },
+    "diremek": {
+      "a": "s89 dire- “to resist, hold up, persist” < ota -ديز ≈ otk -𐱅𐰃𐰼𐰠 < *tīrig + ptr *+a- <br><br> See <span class='searchable'>diri</span>."
+    },
+    "dirlik": {
+      "a": "s89 dirlik‎ harmealth, life” < ota  < oat tirlik < oat tiril- oat +k <br><br> See <span class='searchable'>dirilmek</span>."
+    },
+    "dikmek": {
+      "a": "s89 dik- “to erect, to plant” < s71 -دیك ≈ s69 -𐱅𐰃𐰚 < ptr *tīk- < ptr *tī- “set up” + ptr *+k- <br><br> See <span class='searchable'>diz</span>."
+    },
+    "ayak diremek": {
+      "a": "s89 ayak <span class='p'>dire-</span> “persist in” <br><br> See  <span class='searchable'>ayak</span>, <span class='searchable'>diremek</span>."
+    },
+    "ayak": {
+      "a": "s89 ayak “foot” < s71 آیاق ≈  s69 𐰑𐰴 < s8 *aḏak < s8 *aḏgak < s8 *aḏ- “to separate” + s8 *+gAk <br><br> See <span class='searchable'>ayırmak</span>."
+    },
+    "ayırmak": {
+      "a": "s89 ayır- “to part; separate, choose, pick, select, distinguish” < s71 -آیر < s8 aḏïr- < s8 *aḏ- “to separate” + s8 *+ïr-"
+    }
+  },
+  "clickableWords": {
+    "-قر+": [
+      [
+        "5 *ōyun",
+        "“game”",
+        "9 *ōyna-",
+        "“<i>i.</i> to play”"
+      ],
+      [
+        "5 *buŋ",
+        "“suffering”",
+        "9 *buŋa-",
+        "“(i) go senile, to become sick”"
+      ]
+      ],
+    "*+a-": [
+      [
+        "5 *ōyun",
+        "“game”",
+        "9 *ōyna-",
+        "“<i>i.</i> to play”"
+      ],
+      [
+        "5 *buŋ",
+        "“suffering”",
+        "9 *buŋa-",
+        "“(i) go senile, to become sick”"
+      ]
+    ],
+    "*+e-": [
+      [
+        "5 *til",
+        "“tongue, language”",
+        "9 *tile-",
+        "“(t) to wish”"
+      ],
+      [
+        "5 ülüg",
+        "“lot, endowment”",
+        "9 *ülge-",
+        "“(t) to divide, distribute”"
+      ]
+    ],
+    "*+a": [
+      [
+        "9 *yak-",
+        "“i. to come near, approach”",
+        "5 *yaka",
+        "“collar; edge”"
+      ]
+    ],
+    "*+e": [
+      [
+        "9 *yȫr-",
+        "“(t) to interpret”",
+        "5 *yöre",
+        "“area, region, vicinity”"
+      ]
+    ],
+    "*+ï-": [
+      [
+        "1 *yabïŕ",
+        "“bad”",
+        "9 *yabrï-",
+        "“(i) to fade, wilt”"
+      ]
+    ],
+    "*+i-": [
+      [
+        "1 *sēkiŕ",
+        "“vivid, lively, energetic”",
+        "9 *sēkri-",
+        "“(i) to jump, start off”"
+      ],
+      [
+        "1 *semiŕ",
+        "“fat”",
+        "9 *semri-",
+        "“(i) to fatten”"
+      ]
+    ],
+    "*+ŕ": [
+      [
+        "9 *ȫ-",
+        "“(t) to remember”",
+        "5 *ȫŕ",
+        "“self”"
+      ]
+    ],
+    "*+ïr-": [
+      [
+        "9 *sïḏ-",
+        "“(t) to break, damage, harm”",
+        "9 *sïḏïr-",
+        "“(t) to rub off, peel off”"
+      ]
+    ],
+    "*+ïŕ": [
+      [
+        "9 *ag-",
+        "“to rise up”",
+        "5 *agïŕ",
+        "“mouth”"
+      ]
+    ],
+    "*+uŕ": [
+      [
+        "9 *bog-",
+        "“(t) to tie up, strangle”",
+        "5 *boguŕ",
+        "“throat”"
+      ]
+    ],
+    "*+üŕ-": [
+      [
+        "9 *em-",
+        "“(t) to suck”",
+        "9  *emüŕ-",
+        "“(t) to suckle”"
+      ]
+    ],
+    "*+uŕ-": [
+      [
+        "9 *tam-",
+        "“(i) to drip”",
+        "9 *tamuŕ-",
+        "“(t) to drop, to spill”"
+      ]
+    ],
+    "*+gak": [
+      [
+        "9 *dam-",
+        "“(i) to drip”",
+        "5 *damgak",
+        "“throat”"
+      ],
+      [
+        "9 *or-",
+        "“(t) to mow, reap”",
+        "5 *orgak",
+        "“sickle”"
+      ]
+    ],
+    "*+gek": [
+      [
+        "9 *yẹ̄t-",
+        "“(t) to tow”",
+        "5 *yẹ̄tgek",
+        "“saddlebag, bundle”"
+      ],
+      [
+        "9 *eĺč-",
+        "“(i) to walk, trot, amble”",
+        "5 *eĺčgek",
+        "“donkey”"
+      ]
+    ],
+    "*+sa-": [
+      [
+        "5 *kāp",
+        "“sack”",
+        "9 *kapsa-",
+        "“(t) to contain, include”"
+      ]
+    ],
+    "*+se-": [
+      [
+        "5 *yük",
+        "“load”",
+        "9 *yükse-",
+        "“to rise”"
+      ]
+    ],
+    "*+ug": [
+      [
+        "9 *koy-",
+        "“(t) to put”, 1 *koyug",
+        "“thick, saturated”"
+      ]
+    ],
+    "*+üg": [
+      [
+        "9 *öl-",
+        "“(i) to die, to pass away”",
+        "1 *ölüg",
+        "“dead”"
+      ]
+    ],
+    "*+ïg": [
+      [
+        "9 *sïk-",
+        "“(t) to squeeze”",
+        "1 *sïkïg",
+        "“embarrassment, suffering”"
+      ]
+    ],
+    "*+g": [
+      [
+        "9 *āčï-",
+        "“(i) to pity, to hurt, become sour”",
+        "1 *āčïg",
+        "“pain, ache, bitter”"
+      ],
+      [
+        "9 *yalïn-",
+        "“(t) to strip”",
+        "1 *yalïŋ",
+        "“lonely”"
+      ]
+    ],
+    "*+l-": [
+      [
+        "9 *tō-",
+        "“(i) to full”",
+        "9 *tōl-",
+        "“(i) to be full”"
+      ]
+    ],
+    "*+ïl-": [
+      [
+        "9 *aḏïr-",
+        "“(t) to separate”",
+        "9 *aḏrïl-",
+        "“(i) to leave”"
+      ]
+    ],
+    "*+ïk-": [
+      [
+        "9 *ạ̄č-",
+        "“(i) to hungry”",
+        "9 *ạ̄čïk-",
+        "“(i) be hungry”"
+      ]
+    ],
+    "*+ïl²": [
+      [
+        "9 *si-",
+        "“(i) to urinate”",
+        "9 *sik-",
+        "“(i) to copulate”"
+      ]
+    ],
+    "*+k-": [
+      [
+        "9 *si-",
+        "“(i) to urinate”",
+        "9 *sik-",
+        "“(i) to copulate”"
+      ]
+    ],
+    "*+uk": [
+      [
+        "9 *art-",
+        "“(i) to increase”",
+        "1 *artuk",
+        "“more, much”"
+      ]
+    ],
+    "*+ük": [
+      [
+        "9 *er-",
+        "“(i) to mature”",
+        "5 *erük",
+        "“plum”"
+      ]
+    ],
+    "*+k": [
+      [
+        "9 *yạĺču-",
+        "“(i) to shine on”",
+        "5 *yạĺčuk",
+        "“light, sun”"
+      ]
+    ],
+    "*+kır-": [
+      [
+        "6 fış",
+        "“fizzing or hissing sound”",
+        "9 fışkır-",
+        "“(i) (a fluid) gush out”"
+      ]
+    ],
+    "*+dem": [
+      [
+        "5 *teŋri",
+        "“sky deity”",
+        "1 *teŋridem",
+        "“divine”"
+      ],
+      [
+        "5 *bīr",
+        "“one”",
+        "2 *bīrdem",
+        "“together”"
+      ]
+    ],
+    "*+gür-": [
+      [
+        "9 *bel-",
+        "“to denote, designate”",
+        "9 *belgür",
+        "“to appear”"
+      ]
+    ],
+    "*+gur-": [
+      [
+        "9 *oḏ-",
+        "“to be awake”",
+        "9 *oḏgur-",
+        "“to wake”"
+      ],
+      [
+        "9 *kaḏ-",
+        "“to turn”",
+        "9 *kaḏgur-",
+        "“(t) to take ones care of”"
+      ]
+    ]
+  },
+  "typeWords": {
+    "t1": "adj.",
+    "t2": "adv.",
+    "t3": "conj.",
+    "t4": "int.",
+    "t5": "n.",
+    "t6": "onom.",
+    "t7": "prep.",
+    "t8": "pron.",
+    "t9": "v."
+  },
+  "specialWords": {
+    "s0": "Unknown",
+    "s1": "CDS",
+    "s2": "Proto-Altaic",
+    "s3": "Proto-Indo-European",
+    "s4": "Proto-Japonic",
+    "s5": "Proto-Koreanic",
+    "s6": "Proto-Mongolic",
+    "s7": "Proto-Tungus-Manchu",
+    "s8": "Proto-Turkic",
+    "s9": "Proto-Yeniseian",
+    
+    
+    
+    "s01": "Ancient Greek",
+    "s02": "Armenian",
+    "s03": "Avestan",
+    "s04": "Azerbaijani",
+    "s05": "Baharna Arabic",
+    "s06": "Balkan Gagauz Turkish",
+    "s07": "Balkan Romani",
+    "s08": "Baltic Romani",
+    "s09": "Bashkir",
+    "s10": "Bolgarian",
+    "s11": "Central Kurdish",
+    "s12": "Chagatai",
+    "s13": "Chuvash",
+    "s14": "Classical Armenian",
+    "s15": "Classical Mongolian",
+    "s16": "Classical Sanskrit",
+    "s17": "Crimean Tatar",
+    "s18": "Dimli",
+    "s19": "Dolgan",
+    "s20": "East Yugur",
+    "s21": "English",
+    "s22": "French",
+    "s23": "Gagauz",
+    "s24": "Hijazi Arabic",
+    "s25": "Hurrian",
+    "s26": "Ili Turki",
+    "s27": "Japanese",
+    "s28": "Karachay-Balkar",
+    "s29": "Karaim",
+    "s30": "Karakalpak",
+    "s31": "Karakhanid",
+    "s32": "Kazakh",
+    "s33": "Khakas",
+    "s34": "Khalaj",
+    "s35": "Khazar",
+    "s36": "Khorasani Turkish",
+    "s37": "Khorezmian",
+    "s38": "Kirmanjki",
+    "s39": "Korean",
+    "s40": "Krymchak",
+    "s41": "Kumyk",
+    "s42": "Kurdish",
+    "s43": "Kyrgyz",
+    "s44": "Late Middle Chinese",
+    "s45": "Latin",
+    "s46": "Libyan Arabic",
+    "s47": "Manchu",
+    "s48": "Mandarin Chinese",
+    "s49": "Manichaean Middle Persian",
+    "s50": "Middle Armenian",
+    "s51": "Middle English",
+    "s52": "Middle Korean",
+    "s53": "Middle Mongolian",
+    "s54": "Modern Greek",
+    "s55": "Mongol",
+    "s56": "Nogai",
+    "s57": "North Azerbaijani",
+    "s58": "Northern Alta",
+    "s59": "Northern Altai",
+    "s60": "Northern Kurdish",
+    "s61": "Northern Uzbek",
+    "s62": "Old Chinese",
+    "s63": "Old English",
+    "s64": "Old French",
+    "s65": "Old Japanese",
+    "s66": "Old Korean",
+    "s67": "Old Norse",
+    "s68": "Old Persian",
+    "s69": "Old Russian",
+    "s70": "Old Tibetan",
+    "s71": "Old Turkic",
+    "s72": "Old Uighur",
+    "s73": "Ottoman Turkish",
+    "s74": "Persian",
+    "s75": "Russian",
+    "s76": "Salar",
+    "s77": "Shihhi Arabic",
+    "s78": "Shor",
+    "s79": "Siberian Tatar",
+    "s80": "Sogdian",
+    "s81": "South Azerbaijani",
+    "s82": "Southern Alta",
+    "s83": "Southern Altai",
+    "s84": "Southern Kurdish",
+    "s85": "Southern Uzbek",
+    "s86": "Sumerian",
+    "s87": "Tatar",
+    "s88": "Tunisian Arabic",
+    "s89": "Turkish",
+    "s90": "Turkmen",
+    "s91": "Tuvinian",
+    "s92": "Urali",
+    "s93": "Uyghur",
+    "s94": "Uzbek",
+    "s95": "West Yugur",
+    "s96": "Western Armenian",
+    "s97": "Yakut",
+    "s98": "Zaza",
+    "s99": "Zulu"
+  }
+}
