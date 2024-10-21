@@ -24,6 +24,7 @@
 .p {color: var(--main-pink);}
 .r {color: var(--main-red);}
 .y {color: var(--main-yellow);}
+.n {border-bottom: 2.2px dotted var(--main-yellow);}
 
 html, body {height: 100%;}
 
@@ -245,10 +246,4 @@ main {
 .search-box.disabled {
     opacity: 0.5;
     pointer-events: none;
-}
-
-.n {
-    text-decoration: underline dotted;
-    text-decoration-color: red;
-    text-decoration-thickness: 2px;
 }
