@@ -144,12 +144,12 @@ document.addEventListener('DOMContentLoaded', async () => {
         const clickableElements = document.querySelectorAll('.clickable-word');
 
         clickableElements.forEach(element => {
-            element.addEventListener('click', function () {
-                const word = this.textContent;
-                this.style.textDecoration = 'underline dotted';
-                showWordMeanings(word, this);
-            });
-        });
+    element.addEventListener('click', function () {
+        const word = this.textContent;
+        this.classList.add('n');
+        showWordMeanings(word, this);
+    });
+});
     }
 
     function showWordMeanings(word, element) {
