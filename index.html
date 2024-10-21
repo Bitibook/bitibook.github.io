@@ -25,13 +25,5 @@
     <script src="scripts.js" defer onerror="handleScriptError()"></script> 
     <script src="vocabulary.json" defer onerror="handleScriptError()"></script> 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/2.3.9/purify.min.js"></script> 
-    <script> 
-        function handleScriptError() { 
-            const wordCount = document.getElementById('wordCount'); 
-            wordCount.innerHTML = '<span class="r">Oops!</span>'; 
-            const searchBox = document.getElementById('searchBoxContainer'); 
-            searchBox.classList.add('disabled'); 
-        } 
-    </script>
 </body> 
 </html>
