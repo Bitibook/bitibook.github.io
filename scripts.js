@@ -144,7 +144,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         const clickableElements = document.querySelectorAll('.clickable-word');
 
         clickableElements.forEach(element => {
-    element.addEventListener('click', function () {
+        element.addEventListener('click', function () {
         const word = this.textContent;
         this.classList.add('n');
         showWordMeanings(word, this);
@@ -200,7 +200,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 tooltip.style.opacity = 0;
                 setTimeout(() => {
                     tooltip.remove();
-                    element.style.textDecoration = 'none';
+                   element.classList.remove('n')
                 }, 300);
             });
 
