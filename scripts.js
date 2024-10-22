@@ -325,19 +325,6 @@ document.addEventListener('DOMContentLoaded', async () => {
         updateSearchBoxPlaceholder(query);
         searchWord(query);
     });
-  
-  document.addEventListener('copy', function(e) {
-    var selectedText = window.getSelection().toString();
-
-    var currentUrl = window.location.href;
-
-    var additionalText = '\n\nSource: ' + currentUrl;
-    var newText = selectedText + additionalText;
-
-    e.clipboardData.setData('text/plain', newText);
-
-    e.preventDefault();
-  });
 
     document.querySelector('#result').addEventListener('click', (e) => {
         if (e.target.classList.contains('searchable')) {
