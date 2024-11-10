@@ -8,12 +8,8 @@
 
 @font-face {
   font-family: 'Poppins';
-  src: url('fonts/poppins-400.woff2');
+  src: url('fonts/poppins.woff2');
   font-weight: 400;
-}
-
-.word-count, .search-box input, .ghost-text {
-    font-family: 'Poppins';
 }
 
 :root {
@@ -47,10 +43,6 @@
 }
 
 html, body {
-    height: 100%;
-}
-
-body {
     background-color: var(--main-dark);
     color: var(--main-silver);
     line-height: 1.6;
@@ -61,6 +53,7 @@ body {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
+    height: 100%;
 }
 
 main {
