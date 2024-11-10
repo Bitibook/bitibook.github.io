@@ -322,19 +322,19 @@ main {
 @keyframes slideInOut {
     0% {
         opacity: 0;
-        transform: translateY(-20%); /* Alttan başlasın */
+        transform: translateY(-20%);
     }
     25% {
         opacity: 1;
-        transform: translateY(-45%); /* Ortada durmaya başlasın */
+        transform: translateY(-45%);
     }
     75% {
         opacity: 1;
-        transform: translateY(-45%); /* 1 saniye boyunca burada kalsın */
+        transform: translateY(-45%);
     }
     100% {
         opacity: 0;
-        transform: translateY(-70%); /* Hafif yukarı çıkarak kaybolsun */
+        transform: translateY(-70%);
     }
 }
 
@@ -346,7 +346,5 @@ main {
     transform: translateY(-50%);
     display: inline-flex;
     align-items: center;
-
-  
-    cursor: not-allowed; /* Tıklanamaz ikon */
+    cursor: not-allowed;
 }
