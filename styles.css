@@ -101,6 +101,7 @@ main {
     color: white;
     caret-color: var(--main-green);
     line-height: 35px;
+    font-family: 'Poppins';
 }
 
 .ghost-text {
@@ -112,6 +113,7 @@ main {
     top: 50%;
     transform: translateY(-50%);
     line-height: 35px;
+    font-family: 'Poppins';
 }
 
 .result {
@@ -148,6 +150,7 @@ main {
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+    font-family: 'Poppins';
 }
 
 .word-count .highlight {
