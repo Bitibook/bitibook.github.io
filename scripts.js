@@ -539,7 +539,7 @@ copyButton.style.display = 'none';
     
     searchBox.addEventListener('input', updateCopyButton);
     copyButton.addEventListener('click', () => {
-        copyButton.style.color = '#2d6536';
+        copyButton.style.color = '#32cd32';
         setTimeout(() => {
             copyButton.style.color = '';
         }, 775);
