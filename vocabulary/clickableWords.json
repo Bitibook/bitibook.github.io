@@ -1,5 +1,19 @@
 {
   "clickableWords": {
+    "*-im": [
+      [
+        "9 *til-",
+        "“to split, cut in slices”",
+        "5 *tilim",
+        "“slice”"
+      ],
+      [
+        "4 *keḏ-",
+        "“to put on”",
+        "5 *keḏim",
+        "“clothes, clothing”"
+      ]
+    ],
     "*+*ïl": [
       [
         "1 *yaĺ",
@@ -158,9 +172,9 @@
         "“to attack in swarm”"
       ],
       [
-        "4 *ked-",
+        "4 *keḏ-",
         "“to put on”",
-        "9 *kedgür-",
+        "9 *keḏgür-",
         "“to clothe”"
       ]
     ],
