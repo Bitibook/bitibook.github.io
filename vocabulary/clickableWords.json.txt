@@ -3,15 +3,15 @@
     "*+lAn": [
       [
         "8 *sırt",
-        "“”",
+        "“coarse back hairs of an animal”",
         "9 *sırtlan",
-        "“to knoe”"
+        "“hyena”"
       ],
       [
         "1 *buŕ",
-        "“this”",
+        "“smell”",
         "9 *burslan",
-        "“to find”"
+        "“tiger, lion, panther”"
       ]
     ],
     "*+l-": [
